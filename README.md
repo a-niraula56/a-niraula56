@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @a-niraula56
-- 👀 I’m interested in building anything exciting.
-- 🌱 I’m currently learning python.
+- 👋 Hi, This is my Main Github: https://github.com/me-ayush-niraula
